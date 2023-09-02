@@ -26,7 +26,6 @@ I specialize in a wide range of technologies and programming languages, allowing
   <li>Spring</li>
   <li>SpringBoot</li>
   <li>NextJs</li>
-  <li>UI/UX (Figma)</li>
 </ul>
 </details>
 
@@ -59,6 +58,7 @@ I specialize in a wide range of technologies and programming languages, allowing
   <li>Competitive coding</li>
   <li>Data Structures and Algorithms (DSA)</li>
   <li>Microservices</li>
+  <li>UI/UX (Figma)</li>
 </ul>
 </details>
 
