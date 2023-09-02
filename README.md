@@ -1,11 +1,15 @@
-# Sankar Desamsetti
+<!-- Header Section -->
+<h1 align="center">👋 Hello, I'm Sankar Desamsetti</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/sankar-desamsetti/"><img src="https://img.shields.io/badge/LinkedIn-sankar--desamsetti-blue?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://github.com/sankar6305"><img src="https://img.shields.io/badge/GitHub-sankar6305-green?style=flat-square" alt="GitHub"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sankar--desamsetti-blue)](https://linkedin.com/in/sankar-desamsetti/)
-[![GitHub](https://img.shields.io/badge/GitHub-sankar6305-green)](https://github.com/sankar6305)
+<!-- Introduction Section -->
+<p align="center">Passionate software developer | Computer Science & Engineering Student</p>
 
-Hello! I'm Sankar Desamsetti, a passionate software developer currently pursuing a Bachelor of Technology in Computer Science and Engineering, expected to graduate in 2023.
-
-## Technical Skills
+<!-- Technical Skills Section -->
+## 🚀 Technical Skills
 
 ### Backend Development
 - Node.js
@@ -45,7 +49,8 @@ Hello! I'm Sankar Desamsetti, a passionate software developer currently pursuing
 - Visual Studio Code
 - Chrome Storage
 
-## Education
+<!-- Education Section -->
+## 📚 Education
 
 - **Bachelor of Technology in Computer Science and Engineering**
   - Aditya Engineering College, Surampalem
@@ -53,14 +58,16 @@ Hello! I'm Sankar Desamsetti, a passionate software developer currently pursuing
   - CGPA: 8.33
   - Relevant coursework: Database Management Systems, Operating Systems, OOP, OOD, Computer Networks
 
-## Work Experience
+<!-- Work Experience Section -->
+## 💼 Work Experience
 
 ### Software Developer Intern at TECHNICALHUB, Surampalem
 - Oct 2021 – Dec 2021
 - Designed and developed a flexible CodeMind Problem Setter Dashboard using HTML, CSS, and JavaScript.
 - Significantly improved user engagement by implementing the Problem Setter Dashboard, resulting in a 10% increase in user interaction.
 
-## Projects
+<!-- Projects Section -->
+## 🛠️ Projects
 
 1. **CryptoMan**
    - Technologies: React, Firebase, MaterialUI, Chart.js, APIs
@@ -80,7 +87,8 @@ Hello! I'm Sankar Desamsetti, a passionate software developer currently pursuing
    - Technologies: Django, HTML, CSS, Sqlite3, Pythonanywhere CLOUD
    - Crafted a dynamic Django portfolio on PythonAnywhere with responsive design, modular components, optimized static files, migrations, admin interface, and robust security.
 
-## Achievements
+<!-- Achievements Section -->
+## 🏆 Achievements
 
 - 4 Star coder at Codechef with a maximum rating (1893).
 - Pupil at Codeforces.
@@ -90,4 +98,7 @@ Hello! I'm Sankar Desamsetti, a passionate software developer currently pursuing
 - Secured 3rd place in SQL query Competition organized by Oracle Academy.
 - Solved 900+ problems in Leetcode and 600+ problems in GeeksForGeeks.
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sankar-desamsetti/) or explore my work on [GitHub](https://github.com/sankar6305). I'm always eager to collaborate and learn from others in the tech community.
+<!-- Contact Section -->
+## 📫 Let's Connect
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sankar-desamsetti/), and explore my work on [GitHub](https://github.com/sankar6305). I'm always eager to collaborate and learn from others in the tech community.
