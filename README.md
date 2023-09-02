@@ -11,43 +11,67 @@
 <!-- Technical Skills Section -->
 ## 🚀 Technical Skills
 
-### Backend Development
-- Node.js
-- Express
-- MongoDB
-- Django
-- MySQL
-- Firebase
-- Android Studio
-- Spring
-- SpringBoot
-- NextJs
-- UI/UX (Figma)
+I specialize in a wide range of technologies and programming languages, allowing me to tackle diverse projects with confidence. Here are some of my key technical skills:
 
-### Frontend Development
-- HTML
-- CSS
-- MaterialUI
-- Bootstrap
-- React
+<details>
+<summary><b>Backend Development</b></summary>
+<ul>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>MongoDB</li>
+  <li>Django</li>
+  <li>MySQL</li>
+  <li>Firebase</li>
+  <li>Android Studio</li>
+  <li>Spring</li>
+  <li>SpringBoot</li>
+  <li>NextJs</li>
+  <li>UI/UX (Figma)</li>
+</ul>
+</details>
 
-### Programming Languages
-- C++
-- C
-- Java
-- Python
-- JavaScript
-- Kotlin
+<details>
+<summary><b>Frontend Development</b></summary>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>MaterialUI</li>
+  <li>Bootstrap</li>
+  <li>React</li>
+</ul>
+</details>
 
-### Proficiencies
-- Competitive coding
-- Data Structures and Algorithms (DSA)
-- Microservices
+<details>
+<summary><b>Programming Languages</b></summary>
+<ul>
+  <li>C++</li>
+  <li>C</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>Kotlin</li>
+</ul>
+</details>
 
-### Developer Tools
-- Git
-- Visual Studio Code
-- Chrome Storage
+<details>
+<summary><b>Proficiencies</b></summary>
+<ul>
+  <li>Competitive coding</li>
+  <li>Data Structures and Algorithms (DSA)</li>
+  <li>Microservices</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Developer Tools</b></summary>
+<ul>
+  <li>Git</li>
+  <li>Visual Studio Code</li>
+  <li>Chrome Storage</li>
+</ul>
+</details>
+
+These skills enable me to craft efficient, scalable, and user-friendly software solutions across various domains. I'm passionate about pushing the boundaries of what technology can do.
 
 <!-- Education Section -->
 ## 📚 Education
