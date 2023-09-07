@@ -72,25 +72,3 @@ I specialize in a wide range of technologies and programming languages, allowing
 </details>
 
 These skills enable me to craft efficient, scalable, and user-friendly software solutions across various domains. I'm passionate about pushing the boundaries of what technology can do.
-
-<!-- Education Section -->
-## 📚 Education
-
-- **Bachelor of Technology in Computer Science and Engineering**
-  - Aditya Engineering College, Surampalem
-  - Graduating in 2023
-  - CGPA: 8.33
-  - Relevant coursework: Database Management Systems, Operating Systems, OOP, OOD, Computer Networks
-
-<!-- Work Experience Section -->
-## 💼 Work Experience
-
-### Software Developer Intern at TECHNICALHUB, Surampalem
-- Oct 2021 – Dec 2021
-- Designed and developed a flexible CodeMind Problem Setter Dashboard using HTML, CSS, and JavaScript.
-- Significantly improved user engagement by implementing the Problem Setter Dashboard, resulting in a 10% increase in user interaction.
-
-
-## 📫 Let's Connect
-
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sankar-desamsetti/), and explore my work on [GitHub](https://github.com/sankar6305). I'm always eager to collaborate and learn from others in the tech community.
