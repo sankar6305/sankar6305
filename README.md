@@ -1,14 +1,13 @@
-<!-- Header Section -->
+
 <h1 align="center">👋 Hello, I'm Sankar Desamsetti</h1>
 <p align="center">
   <a href="https://linkedin.com/in/sankar-desamsetti/"><img src="https://img.shields.io/badge/LinkedIn-sankar--desamsetti-blue?style=flat-square" alt="LinkedIn"></a>
   <a href="https://github.com/sankar6305"><img src="https://img.shields.io/badge/GitHub-sankar6305-green?style=flat-square" alt="GitHub"></a>
 </p>
 
-<!-- Introduction Section -->
 <p align="center">Passionate software developer | Computer Science & Engineering Student</p>
 
-<!-- Technical Skills Section -->
+
 ## 🚀 Technical Skills
 
 I specialize in a wide range of technologies and programming languages, allowing me to tackle diverse projects with confidence. Here are some of my key technical skills:
